@@ -1,6 +1,4 @@
 
-// content.js
-
 function setDifficultyVisibility(hide) {
   const difficultyClasses = [
     'text-difficulty-easy',
@@ -16,7 +14,6 @@ function setDifficultyVisibility(hide) {
   });
 }
 
-// Listen for messages from the popup
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if (request.hideDifficulty !== undefined) {
     setDifficultyVisibility(request.hideDifficulty);
