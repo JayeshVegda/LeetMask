@@ -1,7 +1,7 @@
-# LeetCode Difficulty Toggle
+# LeetMask - LeetCode Difficulty Toggle
 
 ## 📌 Overview
-LeetCode Difficulty Toggle is a lightweight Chrome extension that allows users to show or hide difficulty levels of problems on LeetCode. This helps in focusing on problem-solving without being biased by difficulty labels.
+LeetMask - LeetCode Difficulty Toggle is a lightweight Chrome extension that allows users to show or hide difficulty levels of problems on LeetCode. This helps in focusing on problem-solving without being biased by difficulty labels.
 
 ## 🚀 Features
 - Toggle difficulty levels using **radio buttons**.
